@@ -12,8 +12,8 @@ Graduate from a non-tech background, hoping to become a React developer
 
 *   🌍  I'm based in England
 *   ✉️  You can contact me at [Ibrahim\_M789@outlook.com](mailto:Ibrahim_M789@outlook.com)
-*   🧠  I'm learning JavaScript!
-*   🤝  I'm open to collaborating on Interesting frontend projects
+*   🧠  I'm currently learning JavaScript!
+*   🤝  I'm open to collaborating on interesting frontend projects
   ### Skills 
   
 <p align="left">
@@ -45,6 +45,7 @@ Graduate from a non-tech background, hoping to become a React developer
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </picture>
   </a></p>
+
 
 
   
