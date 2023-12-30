@@ -11,7 +11,7 @@ Aspiring Frontend Developer
 Graduate from a non-tech background, hoping to become a React developer
 
 *   🌍  I'm based in England
-*   ✉️  You can contact me at [Ibrahim\_M789@outlook.com](mailto:Ibrahim_M789@outlook.com)
+*   ✉️  You can contact me at [Ibrcodes@outlook.com](mailto:Ibrcodes@outlook.com)
 *   🧠  I'm currently learning React!
 *   🤝  I'm open to collaborating on interesting frontend projects
   ### Skills 
