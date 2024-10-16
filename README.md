@@ -1,5 +1,5 @@
 # 💫 About Me:
-☁️ I am a STEM graduate from the UK looking to get into tech <br>⚡️ Interested in fullstack development & cloud<br>👾 Currently learning NextJS
+☁️ I am a STEM graduate from the UK looking to get into tech <br>⚡️ Interested in fullstack development & cloud<br>👾 Currently learning Python
 
 
 ## 🌐 Socials:
